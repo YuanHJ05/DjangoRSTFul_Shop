@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "99949c1be2cfe16af1b819145d2338dcbb4862913763c317674bd94a20b4df37"
+            "sha256": "0d999adefc5413d60dd9faff556226b97962bfd88e5157717ca61380dca06afa"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,11 +31,11 @@
         },
         "django": {
             "hashes": [
-                "sha256:0fd54e4f27bc3e0b7054a11e6b3a18fa53f2373f6b2df8a22e8eadfe018970a5",
-                "sha256:f3b28084101d516f56104856761bc247f85a2a5bbd9da39d9f6197ff461b3ee4"
+                "sha256:1226168be1b1c7efd0e66ee79b0e0b58b2caa7ed87717909cd8a57bb13a7079a",
+                "sha256:9a4635813e2d498a3c01b10c701fe4a515d76dd290aaa792ccb65ca4ccb6b038"
             ],
             "index": "pypi",
-            "version": "==2.1.8"
+            "version": "==2.2.10"
         },
         "django-ckeditor": {
             "hashes": [
@@ -227,6 +227,13 @@
             ],
             "index": "pypi",
             "version": "==1.14.0"
+        },
+        "sqlparse": {
+            "hashes": [
+                "sha256:022fb9c87b524d1f7862b3037e541f68597a730a8843245c349fc93e1643dc4e",
+                "sha256:e162203737712307dfe78860cc56c8da8a852ab2ee33750e33aeadf38d12c548"
+            ],
+            "version": "==0.3.1"
         },
         "tablib": {
             "extras": [
