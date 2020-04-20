@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "==2.1.8"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
+pymysql = "*"
+django-redis = "*"
+pillow = "*"
+future = "*"
+six = "*"
+httplib2 = "*"
+django-import-export = "*"
+django-crispy-forms = "*"
+django-formtools = "*"
+django-ckeditor = "*"
+
+[requires]
+python_version = "3.6"
